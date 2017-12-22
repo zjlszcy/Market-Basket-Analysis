@@ -5,7 +5,7 @@
 - Zhu, Chenyun
 
 **Project Summary**
-In this project, we built two recommendation algorithms and one predictive model on "The Instacart Online Grocery Shopping Dataset 2017". Video Demo can be found [here](https://www.youtube.com/watch?v=VAWjhAakw4s&t=720s)(<br>
+In this project, we built two recommendation algorithms and one predictive model on "The Instacart Online Grocery Shopping Dataset 2017". Video Demo can be found [here](https://www.youtube.com/watch?v=VAWjhAakw4s&t=720s)<br>
 
 + Recommend new products to customers
 + Recommend the bundles of products to customers
